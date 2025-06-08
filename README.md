@@ -49,7 +49,7 @@ Necessary Python libraries (listed in requirements.txt)
 Setup
 Clone the repository:
 
-git clone https://github.com/kaymen99/AI-personal-assistant
+git clone https://github.com/Ayushi22-coder/Personal-ai-assistant.git
 cd AI-personal-assistant
 Create and activate a virtual environment:
 
