@@ -64,8 +64,8 @@ All the sub-agents report back to the Assistant Manager after completing their r
 1.  **Clone the repository:**
 
     ```sh
-    git clone https://github.com/kaymen99/AI-personal-assistant
-    cd AI-personal-assistant
+    git clone https://github.com/Ayushi22-coder/Personal-ai-assistant.git
+    cd Personal-ai-assistant
     ```
 
 2.  **Create and activate a virtual environment:**
@@ -138,7 +138,3 @@ All the sub-agents report back to the Assistant Manager after completing their r
 ## Contribution
 
 Feel free to fork the repository, create a branch, and submit a pull request if you'd like to contribute to the project.
-
-## Contact
-
-For any queries or suggestions, please reach out to [aymenMir1001@gmail.com](mailto:aymenMir1001@gmail.com)
